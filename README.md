@@ -1,48 +1,52 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&pause=1000&color=44B81B&width=600&height=100&lines=Hi%2C+I'm+Zayviana+%F0%9F%91%BE;Technical+Unicorn+%F0%9F%A6%84+%7C+Data+x+Dev+%F0%9F%A7%A0%F0%9F%92%BB;+Technical+Project+Management+%F0%9F%92%BC+;+ML+%26+Analytics+%F0%9F%93%8A;Creative.+Strategic.+Adaptable.+%E2%9C%A8)](https://git.io/typing-svg)
 
-🚀 A technical unicorn blending project management, data science, and full-stack development  
-🎓 M.S. in Artificial Intelligence & Business Analytics, University of South Florida  
-🛠️ Passionate about solving real-world problems with elegant, data-driven solutions  
 
----
+# ZAYVIANA SINGLETARY
 
-## 🖥️ Work Experience
+**Creator | Builder | Founder**
 
-- 🏢 **IT Project Manager – Systems Integration @ Kelly Services / MITER Brands**  
-  *Aug 2022 – Present*  
-  Managed full system transition for NewSouth Windows post-acquisition. Led sprints, built SharePoint tools, and trained 100+ users.
+Faith-driven technologist building systems at the intersection of **AI, Data, and Product**.
 
-- 📊 **Data Analyst Intern @ Value Tech Realty**  
-  *Nov 2023 – Jan 2024*  
-  HUD housing analytics, Tableau dashboards, Excel-based reporting, and property market insights.
+> "Commit your work to the Lord, and your plans will be established."  
+> — Proverbs 16:3
 
-- 💻 **Software Development Intern @ Dev10**  
-  *Mar 2023 – Jul 2023*  
-  Java + Spring Boot + JavaScript. Built and deployed full-stack apps and boosted system performance by 18%.
-
-- 💼 **Rotational Analyst Intern @ InvestCloud**  
-  *Nov 2020 – Jul 2021*  
-  UAT, regression testing, UI development, and 500+ support tickets resolved with a 93% SLA rate.
+🌐 [zayviana.xyz](https://zayviana.xyz)  
+💼 [LinkedIn](https://www.linkedin.com/in/zayviana/)  
+📧 [hello@zayviana.xyz](mailto:hello@zayviana.xyz)
 
 ---
 
-## 🔥 Projects
+## About
 
-- 🧠 **Income Classification (SparkML)**  
-  Led team using SparkML to classify income with 85% accuracy from Census data (32K+ records).
+I design and build intelligent systems that combine **data, software, and strategy** to solve real-world problems.
 
-- ✈️ **Airplane Damage Estimator**  
-  Predicted damage costs with 86% accuracy based on real incident data.
+My work lives at the intersection of:
 
-- 🏠 **Airbnb Price Predictor**  
-  93% accurate predictions using features like square footage, amenities, and location.
+• Artificial Intelligence  
+• Data Engineering & Analytics  
+• Product Development  
+• Technical Project Leadership  
 
-- 📊 **COVID GDP Dashboard**  
-  Built a global Tableau dashboard showing pre/during/post-COVID trends with 97% stakeholder clarity.
+I’m passionate about building tools, platforms, and ventures that create meaningful impact through **technology, creativity, and disciplined execution**.
 
 ---
 
-## 🛠 Languages & Tools
+## Featured Projects
+
+### Income Classification (SparkML)
+Built a distributed machine learning pipeline using SparkML to classify income levels from U.S. Census data (32K+ records).
+
+### Airplane Damage Estimator
+Machine learning model predicting aircraft damage costs using incident data and environmental factors.
+
+### Airbnb Price Predictor
+Regression model predicting listing prices using features such as square footage, amenities, and location.
+
+### Global COVID GDP Dashboard
+Interactive Tableau dashboard visualizing global economic trends before, during, and after COVID.
+
+---
+
+## Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -62,12 +66,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" />
-          
 </p>
 
 ---
 
-## 💬 Let's Connect
+## Philosophy
 
-[🌐 Website](http://zayviana.xyz) — [💼 LinkedIn](https://www.linkedin.com/in/zayviana/) — [📧 Email](mailto:zayvianaa@gmail.com)
+Faith over fear.  
+Discipline over comfort.  
+Growth over complacency.
+
+---
+
+## Let's Connect
+
+🌐 Website — https://zayviana.xyz  
+💼 LinkedIn — https://www.linkedin.com/in/zayviana/  
+📧 Email — hello@zayviana.xyz
 
