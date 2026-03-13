@@ -9,10 +9,6 @@ Faith-driven technologist building systems at the intersection of **AI, Data, an
 > "Commit your work to the Lord, and your plans will be established."  
 > — Proverbs 16:3
 
-[zayviana.xyz](https://zayviana.xyz)  
-[LinkedIn](https://www.linkedin.com/in/zayviana/)  
-[hello@zayviana.xyz](mailto:hello@zayviana.xyz)
-
 ---
 
 ## About
