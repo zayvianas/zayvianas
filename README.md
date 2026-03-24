@@ -2,7 +2,7 @@
 
 # ZAYVIANA SINGLETARY
 
-**Creator | Builder | Founder**
+**Believer • Builder • Creator • Founder**
 
 Faith-driven technologist building systems at the intersection of **AI, Data, and Product**.
 
