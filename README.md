@@ -78,5 +78,5 @@ Growth over complacency.
 
 Website — https://zayviana.xyz  
 LinkedIn — https://www.linkedin.com/in/zayviana/  
-Email — hello@zayviana.xyz
+Email — hello@zayviana.com
 
